@@ -1,0 +1,18 @@
+[[package]]
+name = "pyowo"
+version = "1.0.1"
+description = "A Python library to translate text to OwO"
+category = "main"
+optional = false
+python-versions = ">=3,<4"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "521a9166643d83defd507d5092228a2d643faad13459464054b59bd793eed8ef"
+
+[metadata.files]
+pyowo = [
+    {file = "pyowo-1.0.1-py3-none-any.whl", hash = "sha256:394c60b1bd78074da9b0877a5c0f9745ac89e1a6efd8bcc2685348acf182e410"},
+    {file = "pyowo-1.0.1.tar.gz", hash = "sha256:bebc7d9e16f031bf734aa9ca1ae2349c6cfbe8a4a0c21c8736c0961dfd37d4b5"},
+]
